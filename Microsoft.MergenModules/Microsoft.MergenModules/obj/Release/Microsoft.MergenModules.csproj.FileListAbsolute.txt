@@ -1,0 +1,6 @@
+C:\Users\USTA\source\repos\Microsoft.MergenModules\Microsoft.MergenModules\bin\Release\Microsoft.MergenModules.dll
+C:\Users\USTA\source\repos\Microsoft.MergenModules\Microsoft.MergenModules\bin\Release\Microsoft.MergenModules.pdb
+C:\Users\USTA\source\repos\Microsoft.MergenModules\Microsoft.MergenModules\obj\Release\Microsoft.MergenModules.csprojAssemblyReference.cache
+C:\Users\USTA\source\repos\Microsoft.MergenModules\Microsoft.MergenModules\obj\Release\Microsoft.MergenModules.csproj.CoreCompileInputs.cache
+C:\Users\USTA\source\repos\Microsoft.MergenModules\Microsoft.MergenModules\obj\Release\Microsoft.MergenModules.dll
+C:\Users\USTA\source\repos\Microsoft.MergenModules\Microsoft.MergenModules\obj\Release\Microsoft.MergenModules.pdb
